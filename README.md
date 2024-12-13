@@ -43,7 +43,7 @@ To perform inference with the LLM model, follow these steps:
 
 2. **Download Model Checkpoint**:
 
-   Visit the [Hugging Face repository](https://huggingface.co/leez7one/stable-code-3b-fine-tuned/tree/main) to download all files in the folder `final_checkpoint_merged`. Ensure you have access to the file, and download it to your local machine. Place the complete folder directly inside the llm_project_M2 folder itself.
+   Visit the [Hugging Face repository](https://huggingface.co/TeyKra/stable-code-3b-fine-tuned/tree/main) to download all files in the folder `final_checkpoint_merged`. Ensure you have access to the file, and download it to your local machine. Place the complete folder directly inside the llm_project_M2 folder itself.
 
 3. **Place the Checkpoint**:
 
