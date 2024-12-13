@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cu117
+torch==2.0.1+cu117
+transformers
+tensorflow
+peft @ git+https://github.com/huggingface/peft
+datasets
+pandas
+ipython
+numpy==1.26.4
+evaluate
+scikit_learn
+bitsandbytes>=0.39.0
+accelerate
+streamlit
