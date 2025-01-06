@@ -21,7 +21,7 @@ A series of strategic decisions were undertaken to address the model's size and 
   
 Faced with the primary constraint of localizing the fine-tuning process of a large model within the confines of a GeForce RTX 3080 (10GB VRAM), these techniques collectively facilitated substantial advancements. By strategically managing computational and memory demands, the project achieved comprehensive local model training, thereby broadening access to state-of-the-art AI technologies without cloud dependencies. Such advancements demonstrate the feasibility of employing advanced models on limited resource setups, opening avenues for widespread application in diverse settings.
 
-# HOW OT USE
+# HOW TO USE
 
 https://github.com/user-attachments/assets/9728e76c-1030-4c88-a82e-df3595314f0b
 
